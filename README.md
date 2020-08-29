@@ -1,4 +1,4 @@
-# Random-Color-Generator
+# Color-Tuner
 A testing project to practice React Native
 <h1> Getting Started </h1>
 
